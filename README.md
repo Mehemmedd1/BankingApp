@@ -1,4 +1,5 @@
 Banking App
+
 A simple banking application built with Spring Boot, Spring Data JPA, and MySQL. This project allows you to manage your bank account by depositing, withdrawing, and viewing the balance.
 
 Features✨
